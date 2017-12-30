@@ -1,0 +1,8 @@
+Left - look left
+Right - look right
+Down - open/close cameras
+A - door
+B - light
+L/R - change camera (if monitor is open)
+START - Nothing
+SELECT - nose
